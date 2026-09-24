@@ -1,0 +1,1 @@
+lib/macOS_universal/libduckdb.dylib filter=lfs diff=lfs merge=lfs -text
